@@ -14,6 +14,12 @@ All files for the R scripts can be found in 2_loocv directory.
 
 **3_two-step_imputation** - perform two-step imputation.
 
+**4_popgen** - code for popgen analysis. 
+
+**s1_damage_profiler** - code to see if read ends had undergone DNA damage.
+
+**s2_table_host_dna** - download and calculate host DNA from previous works. 
+
 ## 2_loocv - Imputation accuracy using 12 validation samples
 **1_loocv** - leave‐one‐out cross‐validation bash script.
 
