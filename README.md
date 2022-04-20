@@ -16,18 +16,18 @@ All files for the R scripts can be found in 2_loocv directory.
 - **s2_table_host_dna** - download and calculate host DNA from previous works. 
 
 ## 2_loocv - Imputation accuracy using 12 validation samples
--**1_loocv** - leave‐one‐out cross‐validation bash script.
--**2_concordance** - calculate concordance for the 12 validation samples.
--**3_t-test** - plots and t-tests for the 12 validation samples.
--**4_missing_percentage** - plot of the missing percentage.
+- **1_loocv** - leave‐one‐out cross‐validation bash script.
+- **2_concordance** - calculate concordance for the 12 validation samples.
+- **3_t-test** - plots and t-tests for the 12 validation samples.
+- **4_missing_percentage** - plot of the missing percentage.
 
 ## 3_population_genetics_inference - R codes for ploting
 All files for the R scripts can be found in the data directory.
 
--**1_allele_freq** - allele frequencies distribution.
--**2_heterozygosity** - heterozygosity of the imputed population and the 12 validation samples.
--**3_nucleotide_diversity** - nucleotide diversity of the imputed population and the 12 validation samples.
--**4_ibs_heatmap** - identity by state of the imputed population and the 12 validation samples.
--**5_kinship** - kinship of the imputed population and the 12 validation samples.
--**6_correlogram** - correlation plots of ibs and kinship.
--**7_fst-comparison** - Venn diagrams for fst.
+- **1_allele_freq** - allele frequencies distribution.
+- **2_heterozygosity** - heterozygosity of the imputed population and the 12 validation samples.
+- **3_nucleotide_diversity** - nucleotide diversity of the imputed population and the 12 validation samples.
+- **4_ibs_heatmap** - identity by state of the imputed population and the 12 validation samples.
+- **5_kinship** - kinship of the imputed population and the 12 validation samples.
+- **6_correlogram** - correlation plots of ibs and kinship.
+- **7_fst-comparison** - Venn diagrams for fst.
