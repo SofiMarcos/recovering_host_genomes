@@ -1,5 +1,5 @@
 # Recovering high-quality host genomes from gut metagenomic data through genotype imputation
-https://zenodo.org/badge/483635488.svg
+[![DOI](https://zenodo.org/badge/483635488.svg)](https://zenodo.org/badge/latestdoi/483635488)
    
 This repository contains the bioinfomatic and data resources related to the genomic analysis for retrieving host genomes from low‐coverage host data generated in metagenomic studies. 
 
