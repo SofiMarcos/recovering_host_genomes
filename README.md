@@ -6,6 +6,8 @@ This repository contains the bioinfomatic resources related to the genomic analy
 Raw data arewill be available from European Nucleotide Archive (ENA), with BioProject accession no. PRJEB43192 (https://www.ebi.ac.uk/ena/browser/view/PRJEB43192?show = component‐projects). Until the release date, data will be made available upon request. ENA_sample codes of the used samples can be found in the ena_codes_host_bams.tsv.
 
 ## 1_pipeline - bioinformatic pipeline
+All files for the R scripts can be found in 2_loocv directory.
+
 **1_pre-processing** - divide host DNA sequences from metagenomic data.
 
 **2_variant_calling-reference_samples** - design custom reference panels.
@@ -21,9 +23,11 @@ Raw data arewill be available from European Nucleotide Archive (ENA), with BioPr
 
 **4_missing_percentage** - plot of the missing percentage.
 
-All files for the R scripts can be found in 2_loocv directory.  
+  
 
 ## 3_population_genetics_inference - R codes for ploting
+All files for the R scripts can be found in the data directory.
+
 **1_allele_freq** - allele frequencies distribution.
 
 **2_heterozygosity** - heterozygosity of the imputed population and the 12 validation samples.
@@ -38,4 +42,4 @@ All files for the R scripts can be found in 2_loocv directory.
 
 **7_fst-comparison** - Venn diagrams for fst.
 
-All files for the R scripts can be found in the data directory.
+
