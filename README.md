@@ -7,7 +7,6 @@ Raw data arewill be available from European Nucleotide Archive (ENA), with BioPr
 
 ## 1_pipeline - bioinformatic pipeline
 All files for the R scripts can be found in 2_loocv directory.
-
 - **1_pre-processing** - divide host DNA sequences from metagenomic data.
 - **2_variant_calling-reference_samples** - design custom reference panels.
 - **3_two-step_imputation** - perform two-step imputation.
@@ -22,8 +21,7 @@ All files for the R scripts can be found in 2_loocv directory.
 - **4_missing_percentage** - plot of the missing percentage.
 
 ## 3_population_genetics_inference - R codes for ploting
-All files for the R scripts can be found in the data directory.
-
+All files for the R scripts can be found in the 3_population_genetics_inference/data directory.
 - **1_allele_freq** - allele frequencies distribution.
 - **2_heterozygosity** - heterozygosity of the imputed population and the 12 validation samples.
 - **3_nucleotide_diversity** - nucleotide diversity of the imputed population and the 12 validation samples.
