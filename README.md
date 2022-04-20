@@ -1,6 +1,6 @@
 # Recovering high-quality host genomes from gut metagenomic data through genotype imputation
 
-This repository contains the bioinfomatic resources related to the genomic analyses for retrieving host genomes from low‐coverage host data generated in metagenomic analysis.
+This repository contains the bioinfomatic and data resources related to the genomic analysis for retrieving host genomes from low‐coverage host data generated in metagenomic studies. 
 
 ## Raw data
 Raw data arewill be available from European Nucleotide Archive (ENA), with BioProject accession no. PRJEB43192 (https://www.ebi.ac.uk/ena/browser/view/PRJEB43192?show = component‐projects). Until the release date, data will be made available upon request. ENA_sample codes of the used samples can be found in the ena_codes_host_bams.tsv.
